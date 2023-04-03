@@ -1,0 +1,15 @@
+C:\Users\Jocabed\source\repos\ReadAndWriteFile\ReadAndWriteFile\bin\Debug\net6.0\ReadAndWriteFile.exe
+C:\Users\Jocabed\source\repos\ReadAndWriteFile\ReadAndWriteFile\bin\Debug\net6.0\ReadAndWriteFile.deps.json
+C:\Users\Jocabed\source\repos\ReadAndWriteFile\ReadAndWriteFile\bin\Debug\net6.0\ReadAndWriteFile.runtimeconfig.json
+C:\Users\Jocabed\source\repos\ReadAndWriteFile\ReadAndWriteFile\bin\Debug\net6.0\ReadAndWriteFile.dll
+C:\Users\Jocabed\source\repos\ReadAndWriteFile\ReadAndWriteFile\bin\Debug\net6.0\ReadAndWriteFile.pdb
+C:\Users\Jocabed\source\repos\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\net6.0\ReadAndWriteFile.csproj.AssemblyReference.cache
+C:\Users\Jocabed\source\repos\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\net6.0\ReadAndWriteFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jocabed\source\repos\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\net6.0\ReadAndWriteFile.AssemblyInfoInputs.cache
+C:\Users\Jocabed\source\repos\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\net6.0\ReadAndWriteFile.AssemblyInfo.cs
+C:\Users\Jocabed\source\repos\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\net6.0\ReadAndWriteFile.csproj.CoreCompileInputs.cache
+C:\Users\Jocabed\source\repos\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\net6.0\ReadAndWriteFile.dll
+C:\Users\Jocabed\source\repos\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\net6.0\refint\ReadAndWriteFile.dll
+C:\Users\Jocabed\source\repos\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\net6.0\ReadAndWriteFile.pdb
+C:\Users\Jocabed\source\repos\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\net6.0\ReadAndWriteFile.genruntimeconfig.cache
+C:\Users\Jocabed\source\repos\ReadAndWriteFile\ReadAndWriteFile\obj\Debug\net6.0\ref\ReadAndWriteFile.dll

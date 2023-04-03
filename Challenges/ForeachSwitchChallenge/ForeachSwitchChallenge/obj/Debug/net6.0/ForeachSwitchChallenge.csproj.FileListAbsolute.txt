@@ -1,0 +1,15 @@
+C:\Users\Jocabed\source\repos\ForeachSwitchChallenge\ForeachSwitchChallenge\bin\Debug\net6.0\ForeachSwitchChallenge.exe
+C:\Users\Jocabed\source\repos\ForeachSwitchChallenge\ForeachSwitchChallenge\bin\Debug\net6.0\ForeachSwitchChallenge.deps.json
+C:\Users\Jocabed\source\repos\ForeachSwitchChallenge\ForeachSwitchChallenge\bin\Debug\net6.0\ForeachSwitchChallenge.runtimeconfig.json
+C:\Users\Jocabed\source\repos\ForeachSwitchChallenge\ForeachSwitchChallenge\bin\Debug\net6.0\ForeachSwitchChallenge.dll
+C:\Users\Jocabed\source\repos\ForeachSwitchChallenge\ForeachSwitchChallenge\bin\Debug\net6.0\ForeachSwitchChallenge.pdb
+C:\Users\Jocabed\source\repos\ForeachSwitchChallenge\ForeachSwitchChallenge\obj\Debug\net6.0\ForeachSwitchChallenge.csproj.AssemblyReference.cache
+C:\Users\Jocabed\source\repos\ForeachSwitchChallenge\ForeachSwitchChallenge\obj\Debug\net6.0\ForeachSwitchChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jocabed\source\repos\ForeachSwitchChallenge\ForeachSwitchChallenge\obj\Debug\net6.0\ForeachSwitchChallenge.AssemblyInfoInputs.cache
+C:\Users\Jocabed\source\repos\ForeachSwitchChallenge\ForeachSwitchChallenge\obj\Debug\net6.0\ForeachSwitchChallenge.AssemblyInfo.cs
+C:\Users\Jocabed\source\repos\ForeachSwitchChallenge\ForeachSwitchChallenge\obj\Debug\net6.0\ForeachSwitchChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Jocabed\source\repos\ForeachSwitchChallenge\ForeachSwitchChallenge\obj\Debug\net6.0\ForeachSwitchChallenge.dll
+C:\Users\Jocabed\source\repos\ForeachSwitchChallenge\ForeachSwitchChallenge\obj\Debug\net6.0\refint\ForeachSwitchChallenge.dll
+C:\Users\Jocabed\source\repos\ForeachSwitchChallenge\ForeachSwitchChallenge\obj\Debug\net6.0\ForeachSwitchChallenge.pdb
+C:\Users\Jocabed\source\repos\ForeachSwitchChallenge\ForeachSwitchChallenge\obj\Debug\net6.0\ForeachSwitchChallenge.genruntimeconfig.cache
+C:\Users\Jocabed\source\repos\ForeachSwitchChallenge\ForeachSwitchChallenge\obj\Debug\net6.0\ref\ForeachSwitchChallenge.dll

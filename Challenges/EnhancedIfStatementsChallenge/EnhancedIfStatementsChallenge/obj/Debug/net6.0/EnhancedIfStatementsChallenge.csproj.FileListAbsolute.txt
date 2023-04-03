@@ -1,0 +1,15 @@
+C:\Users\Jocabed\source\repos\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\bin\Debug\net6.0\EnhancedIfStatementsChallenge.exe
+C:\Users\Jocabed\source\repos\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\bin\Debug\net6.0\EnhancedIfStatementsChallenge.deps.json
+C:\Users\Jocabed\source\repos\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\bin\Debug\net6.0\EnhancedIfStatementsChallenge.runtimeconfig.json
+C:\Users\Jocabed\source\repos\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\bin\Debug\net6.0\EnhancedIfStatementsChallenge.dll
+C:\Users\Jocabed\source\repos\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\bin\Debug\net6.0\EnhancedIfStatementsChallenge.pdb
+C:\Users\Jocabed\source\repos\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\obj\Debug\net6.0\EnhancedIfStatementsChallenge.csproj.AssemblyReference.cache
+C:\Users\Jocabed\source\repos\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\obj\Debug\net6.0\EnhancedIfStatementsChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jocabed\source\repos\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\obj\Debug\net6.0\EnhancedIfStatementsChallenge.AssemblyInfoInputs.cache
+C:\Users\Jocabed\source\repos\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\obj\Debug\net6.0\EnhancedIfStatementsChallenge.AssemblyInfo.cs
+C:\Users\Jocabed\source\repos\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\obj\Debug\net6.0\EnhancedIfStatementsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Jocabed\source\repos\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\obj\Debug\net6.0\EnhancedIfStatementsChallenge.dll
+C:\Users\Jocabed\source\repos\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\obj\Debug\net6.0\refint\EnhancedIfStatementsChallenge.dll
+C:\Users\Jocabed\source\repos\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\obj\Debug\net6.0\EnhancedIfStatementsChallenge.pdb
+C:\Users\Jocabed\source\repos\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\obj\Debug\net6.0\EnhancedIfStatementsChallenge.genruntimeconfig.cache
+C:\Users\Jocabed\source\repos\EnhancedIfStatementsChallenge\EnhancedIfStatementsChallenge\obj\Debug\net6.0\ref\EnhancedIfStatementsChallenge.dll

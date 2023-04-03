@@ -1,0 +1,15 @@
+C:\Users\Jocabed\source\repos\HashtablesChallenge\HashtablesChallenge\bin\Debug\net6.0\HashtablesChallenge.exe
+C:\Users\Jocabed\source\repos\HashtablesChallenge\HashtablesChallenge\bin\Debug\net6.0\HashtablesChallenge.deps.json
+C:\Users\Jocabed\source\repos\HashtablesChallenge\HashtablesChallenge\bin\Debug\net6.0\HashtablesChallenge.runtimeconfig.json
+C:\Users\Jocabed\source\repos\HashtablesChallenge\HashtablesChallenge\bin\Debug\net6.0\HashtablesChallenge.dll
+C:\Users\Jocabed\source\repos\HashtablesChallenge\HashtablesChallenge\bin\Debug\net6.0\HashtablesChallenge.pdb
+C:\Users\Jocabed\source\repos\HashtablesChallenge\HashtablesChallenge\obj\Debug\net6.0\HashtablesChallenge.csproj.AssemblyReference.cache
+C:\Users\Jocabed\source\repos\HashtablesChallenge\HashtablesChallenge\obj\Debug\net6.0\HashtablesChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jocabed\source\repos\HashtablesChallenge\HashtablesChallenge\obj\Debug\net6.0\HashtablesChallenge.AssemblyInfoInputs.cache
+C:\Users\Jocabed\source\repos\HashtablesChallenge\HashtablesChallenge\obj\Debug\net6.0\HashtablesChallenge.AssemblyInfo.cs
+C:\Users\Jocabed\source\repos\HashtablesChallenge\HashtablesChallenge\obj\Debug\net6.0\HashtablesChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Jocabed\source\repos\HashtablesChallenge\HashtablesChallenge\obj\Debug\net6.0\HashtablesChallenge.dll
+C:\Users\Jocabed\source\repos\HashtablesChallenge\HashtablesChallenge\obj\Debug\net6.0\refint\HashtablesChallenge.dll
+C:\Users\Jocabed\source\repos\HashtablesChallenge\HashtablesChallenge\obj\Debug\net6.0\HashtablesChallenge.pdb
+C:\Users\Jocabed\source\repos\HashtablesChallenge\HashtablesChallenge\obj\Debug\net6.0\HashtablesChallenge.genruntimeconfig.cache
+C:\Users\Jocabed\source\repos\HashtablesChallenge\HashtablesChallenge\obj\Debug\net6.0\ref\HashtablesChallenge.dll

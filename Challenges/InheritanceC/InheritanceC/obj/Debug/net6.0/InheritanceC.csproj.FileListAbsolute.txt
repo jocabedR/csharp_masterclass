@@ -1,0 +1,15 @@
+C:\Users\Jocabed\source\repos\InheritanceC\InheritanceC\bin\Debug\net6.0\InheritanceC.exe
+C:\Users\Jocabed\source\repos\InheritanceC\InheritanceC\bin\Debug\net6.0\InheritanceC.deps.json
+C:\Users\Jocabed\source\repos\InheritanceC\InheritanceC\bin\Debug\net6.0\InheritanceC.runtimeconfig.json
+C:\Users\Jocabed\source\repos\InheritanceC\InheritanceC\bin\Debug\net6.0\InheritanceC.dll
+C:\Users\Jocabed\source\repos\InheritanceC\InheritanceC\bin\Debug\net6.0\InheritanceC.pdb
+C:\Users\Jocabed\source\repos\InheritanceC\InheritanceC\obj\Debug\net6.0\InheritanceC.csproj.AssemblyReference.cache
+C:\Users\Jocabed\source\repos\InheritanceC\InheritanceC\obj\Debug\net6.0\InheritanceC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jocabed\source\repos\InheritanceC\InheritanceC\obj\Debug\net6.0\InheritanceC.AssemblyInfoInputs.cache
+C:\Users\Jocabed\source\repos\InheritanceC\InheritanceC\obj\Debug\net6.0\InheritanceC.AssemblyInfo.cs
+C:\Users\Jocabed\source\repos\InheritanceC\InheritanceC\obj\Debug\net6.0\InheritanceC.csproj.CoreCompileInputs.cache
+C:\Users\Jocabed\source\repos\InheritanceC\InheritanceC\obj\Debug\net6.0\InheritanceC.dll
+C:\Users\Jocabed\source\repos\InheritanceC\InheritanceC\obj\Debug\net6.0\refint\InheritanceC.dll
+C:\Users\Jocabed\source\repos\InheritanceC\InheritanceC\obj\Debug\net6.0\InheritanceC.pdb
+C:\Users\Jocabed\source\repos\InheritanceC\InheritanceC\obj\Debug\net6.0\InheritanceC.genruntimeconfig.cache
+C:\Users\Jocabed\source\repos\InheritanceC\InheritanceC\obj\Debug\net6.0\ref\InheritanceC.dll

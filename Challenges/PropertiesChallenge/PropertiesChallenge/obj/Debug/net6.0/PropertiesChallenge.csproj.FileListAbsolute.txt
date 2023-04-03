@@ -1,0 +1,15 @@
+C:\Users\Jocabed\source\repos\PropertiesChallenge\PropertiesChallenge\bin\Debug\net6.0\PropertiesChallenge.exe
+C:\Users\Jocabed\source\repos\PropertiesChallenge\PropertiesChallenge\bin\Debug\net6.0\PropertiesChallenge.deps.json
+C:\Users\Jocabed\source\repos\PropertiesChallenge\PropertiesChallenge\bin\Debug\net6.0\PropertiesChallenge.runtimeconfig.json
+C:\Users\Jocabed\source\repos\PropertiesChallenge\PropertiesChallenge\bin\Debug\net6.0\PropertiesChallenge.dll
+C:\Users\Jocabed\source\repos\PropertiesChallenge\PropertiesChallenge\bin\Debug\net6.0\PropertiesChallenge.pdb
+C:\Users\Jocabed\source\repos\PropertiesChallenge\PropertiesChallenge\obj\Debug\net6.0\PropertiesChallenge.csproj.AssemblyReference.cache
+C:\Users\Jocabed\source\repos\PropertiesChallenge\PropertiesChallenge\obj\Debug\net6.0\PropertiesChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jocabed\source\repos\PropertiesChallenge\PropertiesChallenge\obj\Debug\net6.0\PropertiesChallenge.AssemblyInfoInputs.cache
+C:\Users\Jocabed\source\repos\PropertiesChallenge\PropertiesChallenge\obj\Debug\net6.0\PropertiesChallenge.AssemblyInfo.cs
+C:\Users\Jocabed\source\repos\PropertiesChallenge\PropertiesChallenge\obj\Debug\net6.0\PropertiesChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Jocabed\source\repos\PropertiesChallenge\PropertiesChallenge\obj\Debug\net6.0\PropertiesChallenge.dll
+C:\Users\Jocabed\source\repos\PropertiesChallenge\PropertiesChallenge\obj\Debug\net6.0\refint\PropertiesChallenge.dll
+C:\Users\Jocabed\source\repos\PropertiesChallenge\PropertiesChallenge\obj\Debug\net6.0\PropertiesChallenge.pdb
+C:\Users\Jocabed\source\repos\PropertiesChallenge\PropertiesChallenge\obj\Debug\net6.0\PropertiesChallenge.genruntimeconfig.cache
+C:\Users\Jocabed\source\repos\PropertiesChallenge\PropertiesChallenge\obj\Debug\net6.0\ref\PropertiesChallenge.dll

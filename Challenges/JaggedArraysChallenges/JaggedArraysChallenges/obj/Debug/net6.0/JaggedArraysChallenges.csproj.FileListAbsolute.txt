@@ -1,0 +1,15 @@
+C:\Users\Jocabed\source\repos\JaggedArraysChallenges\JaggedArraysChallenges\bin\Debug\net6.0\JaggedArraysChallenges.exe
+C:\Users\Jocabed\source\repos\JaggedArraysChallenges\JaggedArraysChallenges\bin\Debug\net6.0\JaggedArraysChallenges.deps.json
+C:\Users\Jocabed\source\repos\JaggedArraysChallenges\JaggedArraysChallenges\bin\Debug\net6.0\JaggedArraysChallenges.runtimeconfig.json
+C:\Users\Jocabed\source\repos\JaggedArraysChallenges\JaggedArraysChallenges\bin\Debug\net6.0\JaggedArraysChallenges.dll
+C:\Users\Jocabed\source\repos\JaggedArraysChallenges\JaggedArraysChallenges\bin\Debug\net6.0\JaggedArraysChallenges.pdb
+C:\Users\Jocabed\source\repos\JaggedArraysChallenges\JaggedArraysChallenges\obj\Debug\net6.0\JaggedArraysChallenges.csproj.AssemblyReference.cache
+C:\Users\Jocabed\source\repos\JaggedArraysChallenges\JaggedArraysChallenges\obj\Debug\net6.0\JaggedArraysChallenges.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jocabed\source\repos\JaggedArraysChallenges\JaggedArraysChallenges\obj\Debug\net6.0\JaggedArraysChallenges.AssemblyInfoInputs.cache
+C:\Users\Jocabed\source\repos\JaggedArraysChallenges\JaggedArraysChallenges\obj\Debug\net6.0\JaggedArraysChallenges.AssemblyInfo.cs
+C:\Users\Jocabed\source\repos\JaggedArraysChallenges\JaggedArraysChallenges\obj\Debug\net6.0\JaggedArraysChallenges.csproj.CoreCompileInputs.cache
+C:\Users\Jocabed\source\repos\JaggedArraysChallenges\JaggedArraysChallenges\obj\Debug\net6.0\JaggedArraysChallenges.dll
+C:\Users\Jocabed\source\repos\JaggedArraysChallenges\JaggedArraysChallenges\obj\Debug\net6.0\refint\JaggedArraysChallenges.dll
+C:\Users\Jocabed\source\repos\JaggedArraysChallenges\JaggedArraysChallenges\obj\Debug\net6.0\JaggedArraysChallenges.pdb
+C:\Users\Jocabed\source\repos\JaggedArraysChallenges\JaggedArraysChallenges\obj\Debug\net6.0\JaggedArraysChallenges.genruntimeconfig.cache
+C:\Users\Jocabed\source\repos\JaggedArraysChallenges\JaggedArraysChallenges\obj\Debug\net6.0\ref\JaggedArraysChallenges.dll
