@@ -1,0 +1,16 @@
+C:\Users\Jocabed\source\repos\LinqToSql\bin\Debug\LinqToSql.exe.config
+C:\Users\Jocabed\source\repos\LinqToSql\bin\Debug\LinqToSql.exe
+C:\Users\Jocabed\source\repos\LinqToSql\bin\Debug\LinqToSql.pdb
+C:\Users\Jocabed\source\repos\LinqToSql\obj\Debug\LinqToSql.csproj.AssemblyReference.cache
+C:\Users\Jocabed\source\repos\LinqToSql\obj\Debug\LinqToSql.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jocabed\source\repos\LinqToSql\obj\Debug\MainWindow.g.cs
+C:\Users\Jocabed\source\repos\LinqToSql\obj\Debug\App.g.cs
+C:\Users\Jocabed\source\repos\LinqToSql\obj\Debug\LinqToSql_MarkupCompile.cache
+C:\Users\Jocabed\source\repos\LinqToSql\obj\Debug\LinqToSql_MarkupCompile.lref
+C:\Users\Jocabed\source\repos\LinqToSql\obj\Debug\MainWindow.baml
+C:\Users\Jocabed\source\repos\LinqToSql\obj\Debug\LinqToSql.g.resources
+C:\Users\Jocabed\source\repos\LinqToSql\obj\Debug\LinqToSql.Properties.Resources.resources
+C:\Users\Jocabed\source\repos\LinqToSql\obj\Debug\LinqToSql.csproj.GenerateResource.cache
+C:\Users\Jocabed\source\repos\LinqToSql\obj\Debug\LinqToSql.csproj.CoreCompileInputs.cache
+C:\Users\Jocabed\source\repos\LinqToSql\obj\Debug\LinqToSql.exe
+C:\Users\Jocabed\source\repos\LinqToSql\obj\Debug\LinqToSql.pdb
